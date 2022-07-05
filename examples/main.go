@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/golovers/xtract"
+	"/xtract"
 )
 
 func main() {
