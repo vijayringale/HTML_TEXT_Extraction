@@ -1,0 +1,4 @@
+github.com/golovers/xtract v0.0.0-20180822155744-b7fe05ed4d5d h1:RSAam3cPcs4R0e70a5qy0wyZVnj8VbqUHRCKnruJ1rk=
+github.com/golovers/xtract v0.0.0-20180822155744-b7fe05ed4d5d/go.mod h1:gMexSRJ4XOpikDhItTbLWTGI/5sFyn9uWzf0Nl/vevQ=
+golang.org/x/net v0.0.0-20220630215102-69896b714898 h1:K7wO6V1IrczY9QOQ2WkVpw4JQSwCd52UsxVEirZUfiw=
+golang.org/x/net v0.0.0-20220630215102-69896b714898/go.mod h1:XRhObCWvk6IyKnWLug+ECip1KBveYUHfp+8e9klMJ9c=
